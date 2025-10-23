@@ -1,0 +1,10 @@
+com/openclassrooms/medilabo/risk_diabetes/controller/RiskCalculatorController.class
+com/openclassrooms/medilabo/risk_diabetes/beans/PatientBean$Gender.class
+com/openclassrooms/medilabo/risk_diabetes/enums/DiabetesRiskLevel.class
+com/openclassrooms/medilabo/risk_diabetes/beans/NoteBean.class
+com/openclassrooms/medilabo/risk_diabetes/RiskDiabetesServiceApplication.class
+com/openclassrooms/medilabo/risk_diabetes/proxies/MicroservicePatientsProxy.class
+com/openclassrooms/medilabo/risk_diabetes/proxies/MicroserviceNotesProxy.class
+com/openclassrooms/medilabo/risk_diabetes/service/RiskCalculatorService.class
+com/openclassrooms/medilabo/risk_diabetes/beans/PatientBean.class
+com/openclassrooms/medilabo/risk_diabetes/model/PatientRiskLevel.class

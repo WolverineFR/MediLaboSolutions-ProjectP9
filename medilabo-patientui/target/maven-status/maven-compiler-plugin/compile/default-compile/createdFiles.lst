@@ -1,0 +1,11 @@
+com/openclassrooms/medilabo/patientui/proxies/MicroservicePatientsProxy.class
+com/openclassrooms/medilabo/patientui/PatientuiApplication.class
+com/openclassrooms/medilabo/patientui/beans/PatientBean$Gender.class
+com/openclassrooms/medilabo/patientui/beans/PatientRiskLevelBean.class
+com/openclassrooms/medilabo/patientui/proxies/MicroserviceRiskCalculatorProxy.class
+com/openclassrooms/medilabo/patientui/controller/PatientController.class
+com/openclassrooms/medilabo/patientui/config/FeignAuthConfig.class
+com/openclassrooms/medilabo/patientui/beans/NoteBean.class
+com/openclassrooms/medilabo/patientui/beans/PatientBean.class
+com/openclassrooms/medilabo/patientui/proxies/MicroserviceNotesProxy.class
+com/openclassrooms/medilabo/patientui/beans/PatientRiskLevelBean$DiabetesRiskLevel.class

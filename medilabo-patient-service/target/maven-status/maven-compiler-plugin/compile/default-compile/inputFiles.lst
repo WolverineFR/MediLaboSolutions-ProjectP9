@@ -1,0 +1,7 @@
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/MedilaboSolutionApplication.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/configurations/ApplicationPropertiesConfiguration.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/controller/PatientController.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/model/Patient.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/repository/PatientRepository.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/service/PatientService.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patient-service/src/main/java/com/openclassrooms/medilabo/patient/service/PatientServiceImpl.java

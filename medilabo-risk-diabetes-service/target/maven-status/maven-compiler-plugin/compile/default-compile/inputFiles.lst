@@ -1,0 +1,9 @@
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/RiskDiabetesServiceApplication.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/beans/NoteBean.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/beans/PatientBean.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/controller/RiskCalculatorController.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/enums/DiabetesRiskLevel.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/model/PatientRiskLevel.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/proxies/MicroserviceNotesProxy.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/proxies/MicroservicePatientsProxy.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-risk-diabetes-service/src/main/java/com/openclassrooms/medilabo/risk_diabetes/service/RiskCalculatorService.java

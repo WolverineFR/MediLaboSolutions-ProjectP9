@@ -1,0 +1,5 @@
+com/openclassrooms/medilabo/note/controller/NoteController.class
+com/openclassrooms/medilabo/note/repository/NoteRepository.class
+com/openclassrooms/medilabo/note/service/NoteService.class
+com/openclassrooms/medilabo/note/NoteApplication.class
+com/openclassrooms/medilabo/note/model/Note.class

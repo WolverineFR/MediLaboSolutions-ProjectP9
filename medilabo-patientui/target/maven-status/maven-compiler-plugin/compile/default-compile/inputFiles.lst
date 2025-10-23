@@ -1,0 +1,9 @@
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/PatientuiApplication.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/beans/NoteBean.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/beans/PatientBean.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/beans/PatientRiskLevelBean.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/config/FeignAuthConfig.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/controller/PatientController.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/proxies/MicroserviceNotesProxy.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/proxies/MicroservicePatientsProxy.java
+/Users/maxence/Codage/CodeOpenClassRooms/Projet-9-openclassrooms/medilabo-patientui/src/main/java/com/openclassrooms/medilabo/patientui/proxies/MicroserviceRiskCalculatorProxy.java
